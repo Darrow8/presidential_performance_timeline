@@ -17,4 +17,4 @@ By "Vision / Setting an Agenda", "Pursued Equal Justice For All", and "Performan
 
 The `overall.py` file is the code used to create the overall timeline plot. The `subplots.py` file is the code used to create the subplots.
 
-All data for this project was from the [CSPAN Presidential Historian's Survey]([https://www.c-span.org/presidential-historian-survey/](https://www.c-span.org/presidentsurvey2021/?page=overall)). Feel free to use the code for your own projects!
+All data for this project was from the CSPAN Presidential Historian's Survey (https://www.c-span.org/presidentsurvey2021/). Feel free to use the code for your own projects!
